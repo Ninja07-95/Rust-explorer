@@ -1,0 +1,9 @@
+[package]
+name = "search_engine"
+version = "0.1.0"
+edition = "2025"
+
+[dependencies]
+regex = "1.0"
+rayon = "1.7"
+serde = "0.7.0"
