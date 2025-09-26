@@ -1,0 +1,171 @@
+{
+  "total_files_scanned": 462,
+  "total_matches": 9,
+  "total_duration": {
+    "secs": 0,
+    "nanos": 78827800
+  },
+  "results": [
+    {
+      "file_path": "/home/kali/Rust-explorer/target/release/build/serde-294bbf8bd72cb331/out/private.rs",
+      "matches": [
+        {
+          "line_number": 0,
+          "content": "private.rs",
+          "position": [
+            0,
+            10
+          ]
+        }
+      ],
+      "scan_duration": {
+        "secs": 0,
+        "nanos": 6537
+      }
+    },
+    {
+      "file_path": "/home/kali/Rust-explorer/target/release/build/serde_core-7700d5318e5646df/out/private.rs",
+      "matches": [
+        {
+          "line_number": 0,
+          "content": "private.rs",
+          "position": [
+            0,
+            10
+          ]
+        }
+      ],
+      "scan_duration": {
+        "secs": 0,
+        "nanos": 6113
+      }
+    },
+    {
+      "file_path": "/home/kali/Rust-explorer/src/cli.rs",
+      "matches": [
+        {
+          "line_number": 0,
+          "content": "cli.rs",
+          "position": [
+            0,
+            6
+          ]
+        }
+      ],
+      "scan_duration": {
+        "secs": 0,
+        "nanos": 22337
+      }
+    },
+    {
+      "file_path": "/home/kali/Rust-explorer/src/config.rs",
+      "matches": [
+        {
+          "line_number": 0,
+          "content": "config.rs",
+          "position": [
+            0,
+            9
+          ]
+        }
+      ],
+      "scan_duration": {
+        "secs": 0,
+        "nanos": 7731
+      }
+    },
+    {
+      "file_path": "/home/kali/Rust-explorer/src/main.rs",
+      "matches": [
+        {
+          "line_number": 0,
+          "content": "main.rs",
+          "position": [
+            0,
+            7
+          ]
+        }
+      ],
+      "scan_duration": {
+        "secs": 0,
+        "nanos": 55463
+      }
+    },
+    {
+      "file_path": "/home/kali/Rust-explorer/src/search/mod.rs",
+      "matches": [
+        {
+          "line_number": 0,
+          "content": "mod.rs",
+          "position": [
+            0,
+            6
+          ]
+        }
+      ],
+      "scan_duration": {
+        "secs": 0,
+        "nanos": 13434
+      }
+    },
+    {
+      "file_path": "/home/kali/Rust-explorer/src/search/engine.rs",
+      "matches": [
+        {
+          "line_number": 0,
+          "content": "engine.rs",
+          "position": [
+            0,
+            9
+          ]
+        }
+      ],
+      "scan_duration": {
+        "secs": 0,
+        "nanos": 10136
+      }
+    },
+    {
+      "file_path": "/home/kali/Rust-explorer/src/search/results.rs",
+      "matches": [
+        {
+          "line_number": 0,
+          "content": "results.rs",
+          "position": [
+            0,
+            10
+          ]
+        }
+      ],
+      "scan_duration": {
+        "secs": 0,
+        "nanos": 10571
+      }
+    },
+    {
+      "file_path": "/home/kali/Rust-explorer/src/search/matchers.rs",
+      "matches": [
+        {
+          "line_number": 0,
+          "content": "matchers.rs",
+          "position": [
+            0,
+            11
+          ]
+        }
+      ],
+      "scan_duration": {
+        "secs": 0,
+        "nanos": 6586
+      }
+    }
+  ],
+  "performance": {
+    "files_per_second": 5860.876492810911,
+    "average_scan_time": {
+      "secs": 0,
+      "nanos": 170623
+    },
+    "thread_utilization": 1.0
+  }
+}
